@@ -1,4 +1,4 @@
-# Tayyab-Abdul-Qayum
+# Solubility Predictor
 
 This was a project I decided to make in the summer of year 11 as I wanted to explore the maths behind linear regression. The program aims to predict the solubility of a chemical compound based on its data, then plots a graph of solubility based on temperature. It works as follows:
 
